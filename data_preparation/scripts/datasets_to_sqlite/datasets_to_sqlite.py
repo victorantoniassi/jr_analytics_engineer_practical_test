@@ -63,8 +63,11 @@ def remove_special_characters(input_directory, output_directory, original_delimi
 
 
 # Usage of the function:
-# remove_special_characters(input_directory='data_preparation\\datasets_tratados\\educandos\\tratados_google_sheets', 
-# output_directory='data_preparation\\datasets_tratados\\educandos\\tratados_unidecode', original_delimiter=';')
+"""
+remove_special_characters(input_directory='data_preparation\\datasets_tratados\\educandos\\tratados_google_sheets', 
+output_directory='data_preparation\\datasets_tratados\\educandos\\tratados_unidecode', original_delimiter=';')
+
+"""
 
 
 def load_tsv_to_sqlite(tsv_dir, db_name, table_name, primary_key=None):
