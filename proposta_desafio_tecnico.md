@@ -14,10 +14,10 @@ Desenvolver um projeto simplificado de preparação de dados em que o objetivo f
 
 ### Perfis Agregados de Estudantes
 Esses dados contêm informações sobre estudantes, agrupados por série, turno, sexo, idade, necessidades educacionais especiais e raça/cor. Cada registro nos dados dos educandos representa um número de alunos por perfil.
-Acesse os dados dos perfis dos estudantes aqui.
+Acesse os dados dos perfis dos estudantes [aqui](http://dados.prefeitura.sp.gov.br/dataset/perfil-dos-educandos-cor-raca-idade-sexo-necessidades-educacionais-especiais).
 ### Informações sobre Escolas
 Esses dados fornecem detalhes sobre as escolas, incluindo localização, tipo de escola e outras informações relevantes.
-Acesse os dados das escolas aqui.
+Acesse os dados das escolas [aqui](http://dados.prefeitura.sp.gov.br/dataset/cadastro-de-escolas-municipais-conveniadas-e-privadas).
 
 #### *Aviso Importante*
 Utilize apenas os dados de perfis de alunos e escolas da cidade de São Paulo referentes aos anos de 2021 e 2022. A seleção desses anos específicos deve-se ao fato de que os dados de 2023 dos educandos não está incluído o campo raça, um atributo que consideramos relevante para esse tipo de projeto. Embora estejamos atualmente no ano de 2024, o cenário foi projetado para refletir as condições e desafios que uma empresa poderia enfrentar ao planejar suas operações para o ano seguinte, com base nos dados disponíveis dos anos anteriores.

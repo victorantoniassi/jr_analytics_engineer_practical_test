@@ -27,4 +27,3 @@ Este é um desafio prático para o processo seletivo de Analytics Engineer Júni
 4. **Análise de Cluster**: Agrupar escolas com base em características semelhantes (como localização e tamanho) e analisar as diferenças nas tendências de vendas entre os diferentes grupos. Isso pode ajudar a empresa a entender melhor as necessidades específicas de diferentes comunidades escolares.
 
 5. **Análise de Segmentação de Mercado**: Identificar segmentos de mercado com base nas características dos alunos e das escolas. Isso pode ajudar a empresa a personalizar seus produtos e estratégias de marketing para diferentes segmentos, permitindo que ela atenda melhor às necessidades dos pais.
-
